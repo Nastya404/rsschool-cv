@@ -54,7 +54,15 @@ export const priceFilter = (goods, floorPrice, ceilPrice) => {
 
 ## Experience
 
+[Interactive color model converter (RGB ↔ XYZ ↔ HLS)](https://github.com/Nastya404/Color-picker)
 
+The "Color Model Converter" web application is an interactive tool for converting colors between three different color spaces: RGB, XYZ, and HLS. The application operates in real-time, instantly recalculating values across all models whenever any parameter is changed.
+
+### Стек технологий:
+
+* HTML5
+* CSS3
+* Vanilla JS
 
 ## Education
 
